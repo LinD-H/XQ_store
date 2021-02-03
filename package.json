@@ -1,0 +1,19 @@
+{
+  "name": "xq_store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start":"nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LinD-H/XQ_store.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LinD-H/XQ_store/issues"
+  },
+  "homepage": "https://github.com/LinD-H/XQ_store#readme"
+}
