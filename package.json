@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start":"nodemon index"
-  },
-  "repository": {
+  }, 
+  "repository": { 
     "type": "git",
     "url": "git+https://github.com/LinD-H/XQ_store.git"
   },
