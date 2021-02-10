@@ -8,6 +8,12 @@
 </template>
 <script>
 export default {
+  mounted() {
+    // this.$store.dispatch("loginUser/login", {
+    //   loginId: 'xx',
+    //   loginPwd: 123456,
+    // });
+  },
   components: {},
 };
 </script>
