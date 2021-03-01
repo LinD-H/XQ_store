@@ -37,7 +37,7 @@ export default {
         },
         {
           name: "个人中心",
-          url: "/",
+          url: "/login",
           imgUrl:
             "https://img11.360buyimg.com/jdphoto/s130x100_jfs/t1/68400/36/12368/3153/5d9c4b13E0e0d80a8/876c40f17d91ce44.png",
         },

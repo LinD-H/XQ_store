@@ -6,6 +6,20 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "1330577",
+      "name": "QQ",
+      "font_class": "QQ",
+      "unicode": "e73e",
+      "unicode_decimal": 59198
+    },
+    {
+      "icon_id": "4867075",
+      "name": "后退",
+      "font_class": "houtui1",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
       "icon_id": "993671",
       "name": "后退",
       "font_class": "houtui",
